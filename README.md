@@ -1,5 +1,7 @@
 # linkedin-mcp-webinar-followup
 
+> **Part of the [AI SDR Kit](https://github.com/zevarihq/ai-sdr-kit), the open-source AI SDR harness.** Install the kit to give your agent the whole outbound playbook (setup SOP and every LinkedIn and email sequence), then run this play on top of it.
+
 A Claude Code prompt for working a webinar attendee + registration list — Zoom, Demio, On24, WebinarJam, Riverside, Restream, GoTo, BigMarker — and tiering every registrant **live on LinkedIn** so your follow-up is calibrated to who they actually are now, not the job title their registration form caught three weeks ago.
 
 Sharing it because every webinar follow-up tool I've used buckets attendees on attendance time alone and ships the same "thanks for joining!" email to a VP and a curious junior PM.

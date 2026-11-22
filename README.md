@@ -1,6 +1,6 @@
 # linkedin-mcp-webinar-followup
 
-> **Part of the [AI SDR Kit](https://github.com/zevarihq/ai-sdr-kit), the open-source AI SDR harness.** Install the kit to give your agent the whole outbound playbook (setup SOP and every LinkedIn and email sequence), then run this play on top of it.
+> **Part of the [AI SDR Kit](https://github.com/zevarihq/ai-sdr-kit), the SDR harness for your AI.** Your AI can do outbound; Zevari teaches it how. Install the kit to give your AI Zevari's AI Sales Director, the outbound playbooks, automations and the LinkedIn and email sending engine, then run this play on top of it.
 
 A Claude Code prompt for working a webinar attendee + registration list — Zoom, Demio, On24, WebinarJam, Riverside, Restream, GoTo, BigMarker — and tiering every registrant **live on LinkedIn** so your follow-up is calibrated to who they actually are now, not the job title their registration form caught three weeks ago.
 
